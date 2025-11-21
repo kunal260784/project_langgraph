@@ -23,6 +23,7 @@ dependencies = [
     "openpyxl>=3.1.5",
     "pandas>=2.3.3",
     "pdfminer>=20191125",
+    "pydentic>=0.0.1.dev3",
     "pymupdf>=1.26.6",
     "pypdf>=6.3.0",
     "python-docx>=1.2.0",
