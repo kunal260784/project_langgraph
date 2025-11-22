@@ -28,3 +28,4 @@ langchain-qdrant
 fastembed
 pydentic
 langchain-tavily
+arxiv
